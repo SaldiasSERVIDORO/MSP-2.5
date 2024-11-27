@@ -4228,3 +4228,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'chipped:classic_windowed_dark
 [27Nov2024 01:14:58.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndyMCS lost connection: Disconnected
 [27Nov2024 01:14:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndyMCS left the game
 [27Nov2024 01:14:58.176] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AndyMCS
+[27Nov2024 01:25:27.945] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[27Nov2024 01:25:27.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Nov2024 01:25:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Nov2024 01:25:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Nov2024 01:25:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Nov2024 01:25:32.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[27Nov2024 01:25:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tropicraft:tropics
+[27Nov2024 01:25:32.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Nov2024 01:25:32.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[27Nov2024 01:25:32.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Nov2024 01:25:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Nov2024 01:25:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[27Nov2024 01:25:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (tropics): All chunks are saved
+[27Nov2024 01:25:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Nov2024 01:25:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[27Nov2024 01:25:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Nov2024 01:25:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Nov2024 01:25:32.886] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Nov2024 01:25:32.888] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[27Nov2024 01:25:32.889] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[27Nov2024 01:25:32.889] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Nov2024 01:25:32.955] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

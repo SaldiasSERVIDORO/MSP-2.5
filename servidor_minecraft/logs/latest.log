@@ -4224,3 +4224,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'chipped:classic_windowed_dark
 [27Nov2024 01:10:35.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3781ms or 75 ticks behind
 [27Nov2024 01:13:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndyMCS has made the advancement [Every Cloud Has a Silver Lining]
 [27Nov2024 01:13:55.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting nonamecrackers2/witherstormmod/common/blockentity/AbstractSuperBeaconBlockEntity$Color
+[27Nov2024 01:14:39.411] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[27Nov2024 01:14:58.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndyMCS lost connection: Disconnected
+[27Nov2024 01:14:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndyMCS left the game
+[27Nov2024 01:14:58.176] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AndyMCS

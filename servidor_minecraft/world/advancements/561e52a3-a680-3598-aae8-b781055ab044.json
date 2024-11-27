@@ -3430,9 +3430,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-27 01:13:20 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/silver_lining": {
+    "criteria": {
+      "gained_tool": "2024-11-27 01:13:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-11-27 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-27 01:13:34 +0000"
     },
     "done": true
   },

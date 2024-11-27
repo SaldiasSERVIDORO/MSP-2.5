@@ -1,0 +1,3446 @@
+{
+  "mcwfencesbop:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/soda": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/pink_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/purple_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/leather_straw/item_block_straw": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_pepperoni_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/gray_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_meat_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/grab_hook/item_grab_hook": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/purple_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_cooked_schnitzel": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/light_blue_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sashimi": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/pink_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/tea/item_teapot": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/white_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_chicken_burger": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/willow": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/scythe/diamond_scythe": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/egg_sushi": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/lime_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_tomato_slices": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/light_blue_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/rice_pudding": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_shish_kebab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/dead": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/yellow_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/redwood": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_mushroom_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/coins/item_golden_coin_5": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/coins/item_golden_coin_1": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_apple_pie": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/lime_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_hamburger": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/cyan_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_pumpkin_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/black_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/scythe/iron_scythe": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/orange_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/coins/item_golden_coin_5_alt": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_mushroom_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/magic": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/orange_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_cooked_schnitzel": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/cheese_slice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/tea/item_ice_tea": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_fish_bread": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_tea_dried": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_mushroom_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/blue_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/white_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_tomato_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_item_yoghurt": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_melon_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/light_gray_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/pink_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sweet_berry_pie": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/black_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/light_blue_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_glass": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_item_cooked_chicken_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/confetti/item_confetti_ball": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/oyakodon": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/green_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/scythe/wooden_scythe": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_ultimate_top": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/magenta_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/omni_chest/omni_chest": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_shish_kebab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_fish_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_mushroom_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/cheeseburger": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/blue_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_cooked_chicken_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/scythe/stone_scythe": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_carrot_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_6": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_5": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_7": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_2": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_1": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_4": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_hot_teapot_3": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/cushion/brown_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_cooked_rice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_wheat_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_item_cooked_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/omurice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_potato_slices": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/blue_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sushi": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/warhammer/item_iron_warhammer": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/purple_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/light_blue_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_cooked_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_pepperoni_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_potato_fries": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_cooked_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/cushion/magenta_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/courtroom/item_prosecutor_badge": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/item_pumpkin_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/lime_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/yellow_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/fir": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_pepperoni_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_alexander": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/magenta_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_mushroom_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/warhammer/item_gold_warhammer": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_meat_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_raw_schnitzel": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_fried_egg": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_chubby_doner": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/brown_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/tea/item_teacup": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_croissant": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/white_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/squid_ink_paella": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_meat_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/ender_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/glowberry_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/cyan_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/leather_straw/item_block_leather": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sweet_berry_cupcake_fancy": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/orange_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_ultimate_burger": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_cooked_schnitzel": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/light_gray_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_fancy_apple_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/leather_straw/sugar_cane": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_tea_dried": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/nigiri_sushi": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_chicken_wrap": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/glow_squid_ink_paella": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/leather_straw/leather": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-27 00:56:06 +0000",
+      "has_fillet_knife": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/brown_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/cheese_toast": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/cyan_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/white_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_glass_of_milk": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-27 00:56:06 +0000",
+      "has_fillet_knife": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_mushroom_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/blue_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_melon_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/carved_wood/carving_station": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/beef_donburi": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_chocolate": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/sweet_berry_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/light_gray_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:achievements/root": {
+    "criteria": {
+      "crafting_table": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/brown_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/green_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/warhammer/item_stone_warhammer": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_mushroom_burger": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/bookcase/item_bookcase": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/ender_flask/ender_bow": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_potato_fries": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_fancy_donut": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/black_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/confetti/item_confetti": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/coins/gold_nugget": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/red_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_sprinkles": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_apple_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/courtroom/item_gavel": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/cushion/black_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/yellow_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_baked_rice_pudding": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2024-11-27 00:56:06 +0000",
+      "has_axe": "2024-11-27 00:56:06 +0000",
+      "has_helmet": "2024-11-27 00:56:06 +0000",
+      "has_fishing_rod": "2024-11-27 00:56:06 +0000",
+      "has_bow": "2024-11-27 00:56:06 +0000",
+      "has_chestplate": "2024-11-27 00:56:06 +0000",
+      "has_sword": "2024-11-27 00:56:06 +0000",
+      "has_fillet_knife": "2024-11-27 00:56:06 +0000",
+      "has_shovel": "2024-11-27 00:56:06 +0000",
+      "has_hoe": "2024-11-27 00:56:06 +0000",
+      "has_boots": "2024-11-27 00:56:06 +0000",
+      "has_pickaxe": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_item_shish_kebab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_cooked_rice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_donut": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/hellbark": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_mushroom_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/magenta_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_mushroom_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/gray_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2024-11-27 00:56:06 +0000",
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/cola_powder": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_yoghurt": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/lime_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_fried_egg": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/cyan_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_raw_chicken_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_ultimate_bottom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/riceball": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_honeyberry_yoghurt": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_fish_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_pepperoni_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_item_potato_fries": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/courtroom/item_attorney_badge": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_bun": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/pink_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/green_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_tomato_seeds": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_cooked_sausage": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_honey_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_hotdog": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_fried_egg": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/vat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/ender_flask/flask": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_shish_kebab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/cushion/light_gray_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/red_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_2": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_1": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_4": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_3": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_raw_sausage": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_6": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_5": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_hot_teapot_7": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_cooked_sausage": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_cocoa_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_mushroom_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/cushion/yellow_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/terracotta_tile/gray_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_doner_wrap": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_fancy_pumpkin_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/scythe/golden_scythe": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/cushion/green_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_cooked_rice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_fish_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_mushroom_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_meat_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/gray_terratile": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_fish_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_baked_rice_pudding": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_fish_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/yellow_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_1": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_2": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_3": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_4": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_5": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_6": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_hot_teapot_7": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_item_yoghurt": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-27 00:56:06 +0000",
+      "has_fillet_knife": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_fish_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_ayran": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_item_tea_dried": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_chicken_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_carrot_juice": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_item_cooked_chicken_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_mushroom_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_chicken_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/cola": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_item_cooked_sausage": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/red_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_meat_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/umbran": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_chicken_pepperoni_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/orange_terratile_slab": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_mushroom_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_baked_rice_pudding": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_chicken_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/orange_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_chicken_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_fish_fish": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/raw_pizza_meat_meat_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_daisy_sandwich": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_glass_of_water": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/terracotta_tile/purple_terratile_stairs": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/campfire_cooking_pizza_fish_fish_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_rotten_burger": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smelting_pizza_meat_meat_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-27 00:56:06 +0000",
+      "has_fillet_knife": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_chicken_chicken": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/cushion/red_cushion": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_apple_cupcake": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/warhammer/item_diamond_warhammer": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_meat_mushroom_pepperoni": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smelting_pizza_mushroom_mushroom": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/rope/rope": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/item_raw_patty": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "xercamod:recipes/food/smoking_pizza_chicken_meat": {
+    "criteria": {
+      "config": "2024-11-27 00:56:06 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2024-11-27 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/searchlight": {
+    "criteria": {
+      "exists": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2024-11-27 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_field": "2024-11-27 00:56:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-27 00:56:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "cold_desert": "2024-11-27 00:58:55 +0000",
+      "lavender_field": "2024-11-27 00:56:30 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2024-11-27 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-27 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-11-27 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-11-27 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

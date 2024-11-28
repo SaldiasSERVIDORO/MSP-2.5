@@ -55,13 +55,6 @@
         "negate": false,
         "value": "terralith:skylands_spring"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "biomesoplenty:snowblossom_grove"
-      }
     ]
   ]
 }
